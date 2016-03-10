@@ -13,6 +13,9 @@ int main(){
 
 int add(int a, int b){
 
+a=a+b;
+return a;
+
 }
 int sub(int a, int b){
  return a-b;
